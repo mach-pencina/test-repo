@@ -2,4 +2,4 @@
 
 Secrets is located in 1Password -> Employees -> sealed-secrets
 
-foo = bar
+foo = 4oCYYmFy4oCZ
